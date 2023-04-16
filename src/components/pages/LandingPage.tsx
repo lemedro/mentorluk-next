@@ -5,11 +5,6 @@ import YMKLogo from '@/assets/ymk-logo.png';
 const LandingPage = () => {
 	return (
 		<div className='h-full relative text-customWhite bg-landingPage bg-cover bg-landingPosition snap-start'>
-			{/* <Image
-				src={LandingPageImage}
-				className='h-full object-cover object-landingPage absolute -z-20 top-0 bottom-0 left-0 right-0'
-				alt='Landing page image'
-			/> */}
 			<div className='absolute w-24 h-24 top-8 left-8 md:top-16 md:left-16 md:w-32 md:h-32'>
 				<Image src={YMKLogo} alt='YMK Logo' />
 			</div>

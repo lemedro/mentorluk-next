@@ -4,13 +4,13 @@ import Image from 'next/image';
 
 const EtkinliklerPage = () => {
 	return (
-		<div className='h-full grid grid-cols-1 md:grid-cols-2 grid-rows-6 md:grid-rows-3'>
-			<SingleEtkinlik title='Teknik Gezi' url='teknikGezi' />
-			<SingleEtkinlik title='Tea Talk' url='teaTalk' />
-			<SingleEtkinlik title='Tea Talk' url='teaTalk' />
-			<SingleEtkinlik title='Teknik Gezi' url='teknikGezi' />
-			<SingleEtkinlik title='Teknik Gezi' url='teknikGezi' />
-			<SingleEtkinlik title='Tea Talk' url='teaTalk' />
+		<div className='h-full grid grid-cols-1 md:grid-cols-2 grid-rows-6 md:grid-rows-3 snap-start'>
+			<SingleEtkinlik title='Teknik Gezi' url='bg-teknikGezi' />
+			<SingleEtkinlik title='Tea Talk' url='bg-teaTalk' />
+			<SingleEtkinlik title='Tea Talk' url='bg-teaTalk' />
+			<SingleEtkinlik title='Teknik Gezi' url='bg-teknikGezi' />
+			<SingleEtkinlik title='Teknik Gezi' url='bg-teknikGezi' />
+			<SingleEtkinlik title='Tea Talk' url='bg-teaTalk' />
 		</div>
 	);
 };
@@ -20,7 +20,7 @@ const SingleEtkinlik: React.FC<{ title: string; url: string }> = ({
 	url,
 }) => {
 	return (
-		<div className={`relative overflow-hidden bg-${url} bg-cover bg-center`}>
+		<div className={`relative overflow-hidden ${url} bg-cover bg-center`}>
 			<h1 className=' font-black text-6xl  h-full w-full flex items-end text-customWhite opacity-80 md:justify-start md:text-9xl pl-2'>
 				<span>{title}</span>
 			</h1>

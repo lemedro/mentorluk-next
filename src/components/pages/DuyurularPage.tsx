@@ -3,7 +3,7 @@ import React from 'react';
 
 const DuyurularPage = () => {
 	return (
-		<div className='h-full snap-start flex flex-col'>
+		<div id='duyurular' className='h-full snap-start flex flex-col'>
 			<div className='basis-1/2 md:basis-2/3  flex flex-row'>
 				{/* SOL TARAF */}
 				<div className='basis-1/2 hidden md:flex md:flex-col'>

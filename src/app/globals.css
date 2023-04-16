@@ -2,6 +2,12 @@
 @tailwind components;
 @tailwind utilities;
 
+html,
+body {
+	min-height: screen;
+	height: 100%;
+}
+
 body {
 	@apply bg-customYellow;
 	@apply text-customNavy;

@@ -9,7 +9,7 @@ const BizKimizPage = () => {
 			<Image
 				alt='Crowd'
 				src={CrowdPhoto}
-				className='absolute bottom-0 object-cover h-2/5 pointer-events-none object-crowd z-50'
+				className='absolute bottom-0 object-cover h-2/5 pointer-events-none object-crowd z-20'
 			/>
 
 			<main className='h-4/6 relative flex flex-col  pt-24 md:pt-32 items-center'>
