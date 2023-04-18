@@ -33,10 +33,9 @@ const BizKimizPage = () => {
 					<h1 className='font-black text-4xl md:text-5xl'>Biz Kimiz?</h1>
 					<div className='w-64 md:w-96 bg-customNavy h-2 md:h-4 '></div>
 					<p className='text-center mt-12 md:mt-16'>
-						Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin
-						turpis nunc, fermentum sit amet aliquet id, malesuada ac felis.
-						Nullam in condimentum erat, eget cursus odio. Nunc pretium egestas
-						turpis ac efficitur.{' '}
+					Yıldız Teknik Üniversitesinde mezunların bilgi ve tecrübelerinin öğrencilerin kişisel kariyerlerinin gelişiminde kullanılması amacıyla; rektörlük, öğretim üyeleri, mezunlar ve öğrencilerin ortak çalışma içerisinde ortaya çıkan bir gönüllülük projesidir. Bu kapsamda; öğrenci ve mezun birlikteliği uzun vadede iş hayatınca Yıldız birlikteliği oluşturulması amaçlanır.
+
+Diğer yandan ise; mezunların kendi aralarında oluşturdukları ağın genişletilmesine olanak sağlar. Yıl içerisinde gerçekleştirilen çeşitli organizasyonlar ile bu birliktelik oluşturulur ve pekiştirilir.{' '}
 						<span className='font-bold underline'>
 							<Link href={'#'}>daha fazla...</Link>
 						</span>
