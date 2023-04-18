@@ -19,7 +19,17 @@ const BizKimizPage = () => {
 					Nedir?
 				</h1> */}
 
-				<div className='flex flex-col items-center gap-6 max-w-xs md:max-w-lg'>
+				<div className='flex flex-col items-center gap-6 max-w-xs md:max-w-lg relative'>
+					<h2 className='absolute -top-16 -left-64 md:text-4xl font-black text-3xl'>
+						Mentor
+						<br />
+						Nedir?
+					</h2>
+					<h2 className='absolute -top-16 -right-64 md:text-4xl font-black text-3xl'>
+						Mentee
+						<br />
+						Nedir?
+					</h2>
 					<h1 className='font-black text-4xl md:text-5xl'>Biz Kimiz?</h1>
 					<div className='w-64 md:w-96 bg-customNavy h-2 md:h-4 '></div>
 					<p className='text-center mt-12 md:mt-16'>
