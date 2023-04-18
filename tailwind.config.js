@@ -16,6 +16,10 @@ module.exports = {
 				landingPage: 'url(/manzara-highres.jpg)',
 				teknikGezi: 'url(/teknik-gezi.jpg)',
 				teaTalk: 'url(/tea-talk.jpg)',
+				egitim: 'url(/egitim.jpg)',
+				seminerler: 'url(/seminerler.jpg)',
+				buyukBulusma: 'url(/buyuk-bulusma.jpg)',
+				motivasyon: 'url(/motivasyon.jpg)'
 			},
 			backgroundPosition: {
 				landingPosition: '72% 0%',

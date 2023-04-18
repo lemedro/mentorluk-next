@@ -5,12 +5,12 @@ import Image from 'next/image';
 const EtkinliklerPage = () => {
 	return (
 		<div className='h-full grid grid-cols-1 md:grid-cols-2 grid-rows-6 md:grid-rows-3 snap-start'>
-			<SingleEtkinlik title='Teknik Gezi' url='bg-teknikGezi' />
+			<SingleEtkinlik title='Eğitim' url='bg-egitim' />
+			<SingleEtkinlik title='Seminerler' url='bg-seminerler' />
+			<SingleEtkinlik title='Büyük Buluşma' url='bg-buyukBulusma' />
 			<SingleEtkinlik title='Tea Talk' url='bg-teaTalk' />
-			<SingleEtkinlik title='Tea Talk' url='bg-teaTalk' />
 			<SingleEtkinlik title='Teknik Gezi' url='bg-teknikGezi' />
-			<SingleEtkinlik title='Teknik Gezi' url='bg-teknikGezi' />
-			<SingleEtkinlik title='Tea Talk' url='bg-teaTalk' />
+			<SingleEtkinlik title='Motivasyon' url='bg-motivasyon' />
 		</div>
 	);
 };

@@ -1,27 +1,29 @@
 import React from 'react';
-import YorumMesutSaran from '@/assets/mesut_saran.png';
+import YorumEmreCan from '@/assets/emre_can_kocak.jpg';
+import YorumGizem from '@/assets/gizem_yenicikan.jpg';
+import YorumGozde from '@/assets/gozde_genc.jpg';
 import Yorum from '@/components/Yorum';
 
 const YorumlarPage = () => {
 	return (
 		<div className='min-h-full snap-start bg-customNavy flex flex-col md:flex-row gap-8 md:gap-24 justify-center items-center'>
 			<Yorum
-				image={YorumMesutSaran}
-				name='Mesut Saran'
-				title='İş Analisti'
-				comment='Facilisis habitasse luctus scelerisque urna ultricies aptent condimentum litora eleifend conubia convallis platea libero taciti dictumst bibendum per class integer cursus varius lacinia donec dolor arcu fermentum cubilia porta interdum quis euismod nisl natoque turpis egestas congue fames consectetur dignissim nisi commodo nullam habitant fusce suscipit sagittis ad at metus ullamcorper primis lobortis nunc mattis est curae faucibus morbi proin mi aliquam venenatis tellus quam sem volutpat a tempor inceptos sit accumsan massa quisque adipiscing montes felis dapibus amet elit potenti placerat curabitur himenaeos mollis netus vitae tempus auctor suspendisse orci nostra rhoncus molestie viverra vehicula eget odio pretium gravida'
+				image={YorumEmreCan}
+				name='Emre Can Koçak'
+				title='Pazarlama Uzmanı/Türk Telekom'
+				comment='Mentorluk projesi sayesinde çok sayıda mentorden oluşan sosyal bir çevrem oldu. Mentorlardan aldığım eğitimle işe alım süreçlerini, departman farklılıklarını öğrenciliğimin en başında öğrendim. Kendimi geliştirmekle birlikte sayısız staj ve iş fırsatıyla karşılaştım. Projede yer alacak tüm arkadaşlara aktif olmayı ve projeye değer katacak davranışlarda öncü olmayı şiddetle tavsiye ederim'
 			/>
 			<Yorum
-				image={YorumMesutSaran}
-				name='Mesut Saran'
-				title='İş Analisti'
-				comment='Facilisis habitasse luctus scelerisque urna ultricies aptent condimentum litora eleifend conubia convallis platea libero taciti dictumst bibendum per class integer cursus varius lacinia donec dolor arcu fermentum cubilia porta interdum quis euismod nisl natoque turpis egestas congue fames consectetur dignissim nisi commodo nullam habitant fusce suscipit sagittis ad at metus ullamcorper primis lobortis nunc mattis est curae faucibus morbi proin mi aliquam venenatis tellus quam sem volutpat a tempor inceptos sit accumsan massa quisque adipiscing montes felis dapibus amet elit potenti placerat curabitur himenaeos mollis netus vitae tempus auctor suspendisse orci nostra rhoncus molestie viverra vehicula eget odio pretium gravida'
+				image={YorumGizem}
+				name='Gizem Yeniçıkan'
+				title='Danışman/PwC'
+				comment='Mentorluk projesi benim için “Be the change you want to see in the World” mottosunun gerçek hayatta form bulmuş hali gibi.Projeye ilk dahil olduğumda ekip üyesiydim, sonra mentee oldum şimdi ise mentor. Giveback kültürünü besleyerek devam ettirmeli ve gelecek kuşaklara aktarmalıyız.'
 			/>
 			<Yorum
-				image={YorumMesutSaran}
-				name='Mesut Saran'
-				title='İş Analisti'
-				comment='Facilisis habitasse luctus scelerisque urna ultricies aptent condimentum litora eleifend conubia convallis platea libero taciti dictumst bibendum per class integer cursus varius lacinia donec dolor arcu fermentum cubilia porta interdum quis euismod nisl natoque turpis egestas congue fames consectetur dignissim nisi commodo nullam habitant fusce suscipit sagittis ad at metus ullamcorper primis lobortis nunc mattis est curae faucibus morbi proin mi aliquam venenatis tellus quam sem volutpat a tempor inceptos sit accumsan massa quisque adipiscing montes felis dapibus amet elit potenti placerat curabitur himenaeos mollis netus vitae tempus auctor suspendisse orci nostra rhoncus molestie viverra vehicula eget odio pretium gravida'
+				image={YorumGozde}
+				name='Gözde Genç'
+				title='İş Geliştirme Uzmanı/Migros'
+				comment='Henüz öğrenciyken mentorlerim ile görüşmelerim sonucunda iş hayatında nasıl fark yaratacağımı keşfettim. Mentorluk projesinin lideri olduğum dönemde ise insanlarla olan iletişim yeteneklerimi geliştirme fırsatı yakaladım. Projeye mentee olarak katıldığım, şimdi de mentor olarak devam ettiğim bu ailenin bir parçası olmak inanılmaz keyifli!'
 			/>
 		</div>
 	);
