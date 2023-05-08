@@ -20,7 +20,7 @@ const EtkinliklerPage = forwardRef(function EtkinliklerPage(props, ref) {
 	return (
 		<div
 			ref={pageRef}
-			className='h-full grid grid-cols-1 md:grid-cols-2 grid-rows-6 md:grid-rows-3 snap-start'
+			className='min-h-full grid grid-cols-1 md:grid-cols-2 grid-rows-6 md:grid-rows-3 snap-start'
 		>
 			<SingleEtkinlik title='Eğitim' url='bg-egitim' />
 			<SingleEtkinlik title='Seminerler' url='bg-seminerler' />

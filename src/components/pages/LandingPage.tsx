@@ -22,7 +22,7 @@ const LandingPage = forwardRef(function LandingPage(props, ref) {
 	return (
 		<div
 			ref={pageRef}
-			className='h-full relative text-customWhite bg-landingPage bg-cover bg-landingPosition snap-start'
+			className='min-h-full relative text-customWhite bg-landingPage bg-cover bg-landingPosition snap-start'
 		>
 			<div className='absolute w-24 h-24 top-8 left-8 md:top-16 md:left-16 md:w-32 md:h-32'>
 				<Image src={YMKLogo} alt='YMK Logo' />

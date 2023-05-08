@@ -19,7 +19,7 @@ const SSSPage = forwardRef(function SSSpage(props, ref) {
 	return (
 		<div
 			ref={pageRef}
-			className='h-full snap-start flex text-xs flex-col justify-start items-center px-6 py-6 gap-5 md:gap-12  md:p-16'
+			className='min-h-full snap-start flex text-xs flex-col justify-start items-center px-6 py-6 gap-5 md:gap-12  md:p-16'
 		>
 			<h1 className='font-black text-xl md:text-3xl mb-3 md:mb-8'>
 				Sıkça Sorulan Sorular

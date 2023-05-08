@@ -21,7 +21,7 @@ const BizKimizPage = forwardRef(function BizKimizPage(props, ref) {
 	});
 
 	return (
-		<div ref={pageRef} className='h-full snap-start relative'>
+		<div ref={pageRef} className='min-h-full snap-start relative'>
 			<Image
 				alt='Crowd'
 				src={CrowdPhoto}
