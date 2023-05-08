@@ -1,12 +1,32 @@
-import React from 'react';
+'use client';
+import React, {
+	forwardRef,
+	useEffect,
+	useImperativeHandle,
+	useRef,
+	useState,
+} from 'react';
 import YorumEmreCan from '@/assets/emre_can_kocak.jpg';
 import YorumGizem from '@/assets/gizem_yenicikan.jpg';
 import YorumGozde from '@/assets/gozde_genc.jpg';
 import Yorum from '@/components/Yorum';
 
-const YorumlarPage = () => {
+const YorumlarPage = forwardRef(function YorumlarPage(props, ref) {
+	useEffect(() => {}, []);
+
+	const pageRef = useRef(null) as any;
+	useImperativeHandle(ref, () => {
+		return {
+			scrollIntoView() {
+				pageRef?.current?.scrollIntoView();
+			},
+		};
+	});
 	return (
-		<div className='min-h-full snap-start bg-customNavy flex flex-col md:flex-row gap-8 md:gap-24 md:py-24 justify-center items-start'>
+		<div
+			ref={pageRef}
+			className='min-h-full snap-start bg-customNavy flex flex-col md:flex-row gap-12 md:gap-24 md:py-24 justify-center items-center md:items-start pt-16 pb-12 px-10'
+		>
 			<Yorum
 				image={YorumEmreCan}
 				name='Emre Can Koçak'
@@ -27,6 +47,6 @@ const YorumlarPage = () => {
 			/>
 		</div>
 	);
-};
+});
 
 export default YorumlarPage;

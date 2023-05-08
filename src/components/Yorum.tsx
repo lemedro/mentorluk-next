@@ -11,7 +11,7 @@ interface YorumProps {
 const Yorum: React.FC<YorumProps> = props => {
 	return (
 		<div className='h-min bg-customYellow max-w-xs pt-16 pb-12 px-8 relative'>
-			<div className='w-32 h-32 absolute -top-8 -left-8 rounded-full overflow-hidden'>
+			<div className='md:w-32 md:h-32 h-28 w-28 absolute -top-8 -left-8 rounded-full overflow-hidden'>
 				<Image src={props.image} alt='Comments Photo' fill />
 			</div>
 			<section className=''>

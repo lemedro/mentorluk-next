@@ -12,7 +12,9 @@ const page = () => {
 
 			<section>
 				<div className='row'>
-					<h1>Yönetim Kurulu</h1>
+					<h1 className='font-sans text-customYellow text-3xl md:text-5xl font-bold'>
+						Yönetim Kurulu
+					</h1>
 				</div>
 				<div className='row'>
 					<div className='column'>
@@ -162,7 +164,9 @@ const page = () => {
 
 			<section>
 				<div className='row'>
-					<h1>İcra Kurulu</h1>
+					<h1 className='font-sans text-customYellow text-3xl md:text-5xl font-bold'>
+						İcra Kurulu
+					</h1>
 				</div>
 				<div className='row'>
 					<div className='column'>

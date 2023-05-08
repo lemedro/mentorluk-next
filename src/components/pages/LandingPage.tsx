@@ -1,10 +1,29 @@
+'use client';
 import Image from 'next/image';
-import React from 'react';
+import React, {
+	forwardRef,
+	useImperativeHandle,
+	useRef,
+	useState,
+} from 'react';
 import YMKLogo from '@/assets/ymk-logo.png';
 
-const LandingPage = () => {
+const LandingPage = forwardRef(function LandingPage(props, ref) {
+	const pageRef = useRef(null) as any;
+	const [loaded, setLoaded] = useState(false);
+	useImperativeHandle(ref, () => {
+		return {
+			scrollIntoView() {
+				pageRef?.current?.scrollIntoView();
+			},
+		};
+	});
+
 	return (
-		<div className='h-full relative text-customWhite bg-landingPage bg-cover bg-landingPosition snap-start'>
+		<div
+			ref={pageRef}
+			className='h-full relative text-customWhite bg-landingPage bg-cover bg-landingPosition snap-start'
+		>
 			<div className='absolute w-24 h-24 top-8 left-8 md:top-16 md:left-16 md:w-32 md:h-32'>
 				<Image src={YMKLogo} alt='YMK Logo' />
 			</div>
@@ -18,6 +37,6 @@ const LandingPage = () => {
 			</div>
 		</div>
 	);
-};
+});
 
 export default LandingPage;
