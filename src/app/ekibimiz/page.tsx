@@ -57,7 +57,7 @@ const page = () => {
 									>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:harunakgnn11@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -97,10 +97,10 @@ const page = () => {
 								<h3>Atakan Ali Atak</h3>
 								<p>Mentorlerden Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/atakanaliatak/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:atakatakanali@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -115,10 +115,10 @@ const page = () => {
 								<h3>Elif Mısır</h3>
 								<p>Menteelerden Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/elifmisir/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:elifmsr22@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -133,7 +133,7 @@ const page = () => {
 								<h3>Ecem Elgörmüş</h3>
 								<p>Organizasyondan Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/ecemelg%C3%B6rm%C3%BC%C5%9F/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
 									<a href='#'>
@@ -155,10 +155,10 @@ const page = () => {
 								<h3>Zeynep Şen</h3>
 								<p>Tanıtım Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/zeynep-sen/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:zeynepsen302@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -182,10 +182,10 @@ const page = () => {
 								<h3>Orhun Karaduman</h3>
 								<p>IT Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/orhun-karaduman/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:orhunkaraduman13@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -200,10 +200,10 @@ const page = () => {
 								<h3>Ahmet Süha Atıcı</h3>
 								<p>Endüstri Bölüm Sorumlusu</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/ahmetsuhaatici/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:ahmetsuhaatici@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -218,7 +218,7 @@ const page = () => {
 								<h3>Rafet Düzgün</h3>
 								<p>Makine Bölüm Sorumlusu</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/rafetduzgun/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
 									<a href='#'>
@@ -237,13 +237,13 @@ const page = () => {
 								<div className='img-container'>
 									<img src='takım_resim/ayca.jpg' />
 								</div>
-								<h3>Ayca Yapucuoglu</h3>
+								<h3>Ayça Yapucuoglu</h3>
 								<p>Mekatronik Bölüm Sorumlusu</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/ayca-yapucuoglu/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:yapucuogluayca@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -258,10 +258,10 @@ const page = () => {
 								<h3>Beyzanur Yüncü</h3>
 								<p>Matematik Bölüm Sorumlusu</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/hbeyzanury/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:hbeyzanury@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -276,7 +276,7 @@ const page = () => {
 								<h3>Memduh Ömer Yuvacı</h3>
 								<p>Mentee Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/memduh%C3%B6meryuvac%C4%B1/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
 									<a href='#'>
@@ -298,10 +298,10 @@ const page = () => {
 								<h3>Zehra Nur Mutlu</h3>
 								<p>Mentee Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/zehra-nur-m-0bb71b196/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:zehranur3429@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -316,10 +316,10 @@ const page = () => {
 								<h3>Göktüğ Kavraz</h3>
 								<p>Mentor Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/goktug-karagoz/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:sairigoktus@hotmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -334,10 +334,10 @@ const page = () => {
 								<h3>Merve Çetin</h3>
 								<p>Mentor Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/merve-%C3%A7etin-8831871b8/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:merve_ctnn99@hotmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -356,10 +356,10 @@ const page = () => {
 								<h3>Mustafa Özsoy</h3>
 								<p>Organizasyon Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/mustafa-%C3%B6zsoy/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:mustafaozsy7@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -374,10 +374,10 @@ const page = () => {
 								<h3>Züleyha Yılmaz</h3>
 								<p>Organizasyon Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/zuleyhayilmaz/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:zuleyhaylmaz00@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -392,10 +392,10 @@ const page = () => {
 								<h3>Eylül Karataş</h3>
 								<p>Organizasyon Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/eylulkaratas/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:karataseylul.01@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -414,10 +414,10 @@ const page = () => {
 								<h3>Zeynep Gamze Özdemir</h3>
 								<p>Sosyal Medya Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/zeynepgamzeozdemir/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:zeygamoz@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -430,12 +430,12 @@ const page = () => {
 									<img src='takım_resim/gonul.jpg' />
 								</div>
 								<h3>Gönül Gül</h3>
-								<p>Sosyal Medya Koordinatorü</p>
+								<p>İçerik Koordinatorü</p>
 								<div className='icons'>
-									<a href='#'>
+									<a href='https://www.linkedin.com/in/gonulgul/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='#'>
+									<a href='mailto:gonul.gul@std.yildiz.edu.tr'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>

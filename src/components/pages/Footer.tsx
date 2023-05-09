@@ -29,7 +29,7 @@ const FooterPage = forwardRef(function FooterPage(props, ref) {
 			className='h-full md:h-2/5 snap-start bg-customNavy text-customYellow flex flex-col md:flex-row items-center justify-evenly'
 		>
 			<div className='flex flex-col justify-center items-center gap-4'>
-				<Link href='#'>ytumentorlukprojesi@gmail.com</Link>
+				<Link href='#'>ytumentorlukkulubuyk@gmail.com</Link>
 				<Link href='#'>Barbaros Bulvarı 34349 Yıldız/Beşiktaş/İstanbul</Link>
 				<Link href={'/kvkk'}>KVKK Aydınlatma Metni</Link>
 			</div>
