@@ -25,13 +25,13 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/deniz.jpg' />
+									<img src='takım_resim/zuleyha.jpg' />
 								</div>
-								<h3>Deniz Günday</h3>
+								<h3>Züleyha Yılmaz</h3>
 								<p>Yönetim Kurulu Başkanı</p>
 								<div className='icons'>
 									<a
-										href='https://www.linkedin.com/in/denizgunday/'
+										href='https://www.linkedin.com/in/zuleyhayilmaz/'
 										target='_blank'
 									>
 										<i className='fab fa-linkedin'></i>
@@ -46,18 +46,18 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/harun.jpg' />
+									<img src='takım_resim/suha.jpg' />
 								</div>
-								<h3>Harun Akgün</h3>
+								<h3>Ahmet Süha Atıcı</h3>
 								<p>İletişimden Sorumlu YKÜ</p>
 								<div className='icons'>
 									<a
-										href='https://www.linkedin.com/in/harunakgnn/'
+										href='https://www.linkedin.com/in/ahmetsuhaatici/'
 										target='_blank'
 									>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:harunakgnn11@gmail.com'>
+									<a href='mailto:ahmetsuhaatici@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -67,13 +67,13 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/emre.jpg' />
+									<img src='takım_resim/fatmanur.JPG' />
 								</div>
-								<h3>Emre Çulhan</h3>
+								<h3>Fatmanur Taşci</h3>
 								<p>Finanstan Sorumlu YKÜ</p>
 								<div className='icons'>
 									<a
-										href='https://www.linkedin.com/in/emre-culhan-116aa51b8/'
+										href='https://www.linkedin.com/in/fatmanur-tasci/'
 										target='_blank'
 									>
 										<i className='fab fa-linkedin'></i>
@@ -94,13 +94,13 @@ const page = () => {
 								<div className='img-container'>
 									<img src='takım_resim/atakan.jpg' />
 								</div>
-								<h3>Atakan Ali Atak</h3>
+								<h3>Göktuğ Karagöz</h3>
 								<p>Mentorlerden Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/atakanaliatak/'>
+									<a href='https://www.linkedin.com/in/goktug-karagoz/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:atakatakanali@gmail.com'>
+									<a href='mailto:sarigoktus@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -110,15 +110,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/elif.jpg' />
+									<img src='takım_resim/gonul.jpg' />
 								</div>
-								<h3>Elif Mısır</h3>
+								<h3>Gönül Gül</h3>
 								<p>Menteelerden Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/elifmisir/'>
+									<a href='https://www.linkedin.com/in/gonulgul/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:elifmsr22@gmail.com'>
+									<a href='mailto:gonul.gul@std.yildiz.edu.tr'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -128,12 +128,12 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/ecem.jpeg' />
+									<img src='takım_resim/eylul.jpeg' />
 								</div>
-								<h3>Ecem Elgörmüş</h3>
+								<h3>Eylül Karataş</h3>
 								<p>Organizasyondan Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/ecemelg%C3%B6rm%C3%BC%C5%9F/'>
+									<a href='https://www.linkedin.com/in/eylulkaratas/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
 									<a href='#'>
@@ -150,15 +150,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/zeynep.jpg' />
+									<img src='takım_resim/gamze.jpg' />
 								</div>
-								<h3>Zeynep Şen</h3>
+								<h3>Zeynep Gamze Özdemir</h3>
 								<p>Tanıtım Sorumlu YKÜ</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/zeynep-sen/'>
+									<a href='https://www.linkedin.com/in/zeynepgamzeozdemir/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:zeynepsen302@gmail.com'>
+									<a href='mailto:zeygamoz@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -177,15 +177,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/orhun-karaduman.jpeg' />
+									<img src='takım_resim/nil.jpg' />
 								</div>
-								<h3>Orhun Karaduman</h3>
+								<h3>Nil Özdemir</h3>
 								<p>IT Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/orhun-karaduman/'>
+									<a href='https://www.linkedin.com/in/nil-%C3%B6zdemir-8bb76b226/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:orhunkaraduman13@gmail.com'>
+									<a href='mailto:aysenilozdemir09@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -195,15 +195,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/suha.jpg' />
+									<img src='takım_resim/gokce.jpg' />
 								</div>
-								<h3>Ahmet Süha Atıcı</h3>
-								<p>Endüstri Bölüm Sorumlusu</p>
+								<h3>Gökçe Arya Kerzi</h3>
+								<p>İletişim Koordinatörü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/ahmetsuhaatici/'>
+									<a href='https://www.linkedin.com/in/g%C3%B6k%C3%A7e-arya-kerzi/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:ahmetsuhaatici@gmail.com'>
+									<a href='mailto:gokcearyakerzi01@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -213,12 +213,12 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/rafet.jpg' />
+									<img src='takım_resim/subhan.jpg' />
 								</div>
-								<h3>Rafet Düzgün</h3>
-								<p>Makine Bölüm Sorumlusu</p>
+								<h3>Subhan Azizoğlu</h3>
+								<p>Sponsorluk Koordinatörü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/rafetduzgun/'>
+									<a href='https://www.linkedin.com/in/subhan-azizo%C4%9Flu-322079292/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
 									<a href='#'>
@@ -235,15 +235,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/ayca.jpg' />
+									<img src='takım_resim/selin.jpg' />
 								</div>
-								<h3>Ayça Yapucuoglu</h3>
-								<p>Mekatronik Bölüm Sorumlusu</p>
+								<h3>Selin Sedef Aksoy</h3>
+								<p>Mentee Strateji Koordinatörü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/ayca-yapucuoglu/'>
+									<a href='https://www.linkedin.com/in/selinsedefaksoy/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:yapucuogluayca@gmail.com'>
+									<a href='mailto:selinsedefaksoy@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -253,15 +253,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/beyzanur.jpg' />
+									<img src='takım_resim/sima.jpeg' />
 								</div>
-								<h3>Beyzanur Yüncü</h3>
-								<p>Matematik Bölüm Sorumlusu</p>
+								<h3>Şima Rümeysa Ak</h3>
+								<p>Mentee Koordinatörü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/hbeyzanury/'>
+									<a href='https://www.linkedin.com/in/%C5%9Fima-r%C3%BCmeysa-ak-20a1a4226/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:hbeyzanury@gmail.com'>
+									<a href='mailto:simarumeysaak@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -271,12 +271,12 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/omer.jpg' />
+									<img src='takım_resim/feyza.jpg' />
 								</div>
-								<h3>Memduh Ömer Yuvacı</h3>
+								<h3>Feyzanur Duman</h3>
 								<p>Mentee Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/memduh%C3%B6meryuvac%C4%B1/'>
+									<a href='https://www.linkedin.com/in/feyzanurduman/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
 									<a href='#'>
@@ -293,15 +293,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/zehranur.jpg' />
+									<img src='takım_resim/yusuf.jpg' />
 								</div>
-								<h3>Zehra Nur Mutlu</h3>
-								<p>Mentee Koordinatorü</p>
+								<h3>Yusuf Yüksel</h3>
+								<p>Mentor Strateji Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/zehra-nur-m-0bb71b196/'>
+									<a href='https://www.linkedin.com/in/yusuf-y%C3%BCksel-b0b3071ba/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:zehranur3429@gmail.com'>
+									<a href='mailto:yusufyuksel3446@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -311,15 +311,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/goktug.jpg' />
+									<img src='takım_resim/sila.jpeg' />
 								</div>
-								<h3>Göktüğ Kavraz</h3>
+								<h3>Hamide Sıla Özdemir</h3>
 								<p>Mentor Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/goktug-karagoz/'>
+									<a href='https://www.linkedin.com/in/hamidesilaozdemir/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:sairigoktus@hotmail.com'>
+									<a href='mailto:hamidesilaozdemir@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -329,15 +329,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/merve.jpeg' />
+									<img src='takım_resim/dilara.JPG' />
 								</div>
-								<h3>Merve Çetin</h3>
+								<h3>Dilara Bektaş</h3>
 								<p>Mentor Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/merve-%C3%A7etin-8831871b8/'>
+									<a href='https://www.linkedin.com/in/dilarabektas00/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:merve_ctnn99@hotmail.com'>
+									<a href='mailto:dilarabkts0@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -351,15 +351,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/mustafa.jpg' />
+									<img src='takım_resim/yasemin.jpg' />
 								</div>
-								<h3>Mustafa Özsoy</h3>
+								<h3>Yasemin Elizabeth Jones</h3>
 								<p>Organizasyon Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/mustafa-%C3%B6zsoy/'>
+									<a href='https://www.linkedin.com/in/yaseminelizabethjones/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:mustafaozsy7@gmail.com'>
+									<a href='mailto:yaseminelizabeth@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -369,15 +369,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/zuleyha.jpg' />
+									<img src='takım_resim/furkan.png' />
 								</div>
-								<h3>Züleyha Yılmaz</h3>
+								<h3>Furkan Yılmaz</h3>
 								<p>Organizasyon Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/zuleyhayilmaz/'>
+									<a href='https://www.linkedin.com/in/furkan-y%C4%B1lmaz-968296228/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:zuleyhaylmaz00@gmail.com'>
+									<a href='mailto:furyylmz@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -387,15 +387,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/eylul.jpg' />
+									<img src='takım_resim/cemal.jpeg' />
 								</div>
-								<h3>Eylül Karataş</h3>
+								<h3>Cemal Eren Sinan</h3>
 								<p>Organizasyon Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/eylulkaratas/'>
+									<a href='https://www.linkedin.com/in/cemal-eren-sinan-a83a071bb/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:karataseylul.01@gmail.com'>
+									<a href=''>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -409,15 +409,15 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/zeynep_gamze.jpg' />
+									<img src='takım_resim/ceren.JPG' />
 								</div>
-								<h3>Zeynep Gamze Özdemir</h3>
-								<p>Sosyal Medya Koordinatorü</p>
+								<h3>Ceren Yılmaz</h3>
+								<p>Tasarım Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/zeynepgamzeozdemir/'>
+									<a href='https://www.linkedin.com/in/ceren-yilmazz/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:zeygamoz@gmail.com'>
+									<a href='mailto:yilmazceren1703@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
@@ -427,15 +427,33 @@ const page = () => {
 						<div className='column'>
 							<div className='card'>
 								<div className='img-container'>
-									<img src='takım_resim/gonul.jpg' />
+									<img src='takım_resim/ibrahim.JPG' />
 								</div>
-								<h3>Gönül Gül</h3>
+								<h3>İbrahim Aykol</h3>
 								<p>İçerik Koordinatorü</p>
 								<div className='icons'>
-									<a href='https://www.linkedin.com/in/gonulgul/'>
+									<a href='https://www.linkedin.com/in/ibrahimaykol/'>
 										<i className='fab fa-linkedin'></i>
 									</a>
-									<a href='mailto:gonul.gul@std.yildiz.edu.tr'>
+									<a href='mailto:aykolibrahim3442@gmail.com'>
+										<i className='fas fa-envelope'></i>
+									</a>
+								</div>
+							</div>
+						</div>
+
+						<div className='column'>
+							<div className='card'>
+								<div className='img-container'>
+									<img src='takım_resim/kayra.png' />
+								</div>
+								<h3>Kayra Ağcabay</h3>
+								<p>İçerik Koordinatorü</p>
+								<div className='icons'>
+									<a href='https://www.linkedin.com/in/kayraagcabay/'>
+										<i className='fab fa-linkedin'></i>
+									</a>
+									<a href='mailto:kayraagcabay@gmail.com'>
 										<i className='fas fa-envelope'></i>
 									</a>
 								</div>
